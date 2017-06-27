@@ -35,7 +35,6 @@ In order to answer the client's questions, I used neural networks to generate hi
 ``#.`` The product does return the most similar items, but because the dimensionality is already so high, changes to the word vectors don't have much impact. That is, there are only slight (but interesting) differences in the objects returned for my Zac Posen dress + "fancy" query versus my Zac Posen dress + "casual" query. So I'm not going to be applying for start-up funding any time soon, but had fun playing with the idea! 
 
 
-
 Technical deep-dive
 -------------------
 *Coming soon:* A detailed description of how this project was executed--how the data was collected, cleaned and sampled; how the algorithms and parameters were chosen; how the results were interpreted.
